@@ -1,0 +1,14 @@
+node_modules
+.next
+dist
+coverage
+.turbo
+.DS_Store
+*.log
+pnpm-lock.yaml
+.agents/
+.claude/
+.cursor/
+.gemini/
+.omc/
+_bmad/
