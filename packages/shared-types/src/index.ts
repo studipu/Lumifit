@@ -21,6 +21,37 @@ export type ShopperProfile = {
   legLength: LengthScale;
 };
 
+export type Avatar = {
+  id: string;
+  label: string;
+  imageUrl: string;
+  bodyShape: ShopperProfile;
+};
+
+export type Product = {
+  id: string;
+  tenantId: string;
+  name: string;
+  description: string;
+  price: number;
+  currency: string;
+  category: string;
+  imageUrls: string[];
+  sizes: string[];
+  fitComparisonEnabled: boolean;
+  createdAt: string;
+};
+
+export type GenerationJob = {
+  id: string;
+  productId: string;
+  avatarId: string;
+  state: GenerationState;
+  resultUrl?: string;
+  createdAt: string;
+  updatedAt: string;
+};
+
 export const demoShopperProfile: ShopperProfile = {
   heightCm: 168,
   weightKg: 58,
