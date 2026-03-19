@@ -47,6 +47,9 @@ export function AvatarGrid() {
   const valueLabel: Record<string, string> = {
     narrow: "좁은", average: "보통", broad: "넓은",
     short: "짧은", long: "긴",
+    korean: "한국", japanese: "일본", chinese: "중국",
+    "southeast-asian": "동남아시아", "south-asian": "남아시아",
+    caucasian: "서양", african: "아프리카", hispanic: "히스패닉",
   };
 
   return (
@@ -61,6 +64,7 @@ export function AvatarGrid() {
         <div className="rounded-lg border bg-muted/50 p-4">
           <p className="mb-2 text-xs font-medium text-muted-foreground">내 프로필</p>
           <div className="flex flex-wrap gap-2 text-xs">
+            <span className="rounded-full bg-background px-2.5 py-1 border">{valueLabel[profile.ethnicity] ?? profile.ethnicity}</span>
             <span className="rounded-full bg-background px-2.5 py-1 border">{profile.heightCm}cm</span>
             <span className="rounded-full bg-background px-2.5 py-1 border">{profile.weightKg}kg</span>
             <span className="rounded-full bg-background px-2.5 py-1 border">어깨 {valueLabel[profile.shoulderWidth]}</span>

@@ -28,6 +28,7 @@ function generateVariant(
     bodyShape: {
       heightCm: base.heightCm + heightDelta,
       weightKg: base.weightKg + weightDelta,
+      ethnicity: base.ethnicity,
       shoulderWidth: shiftShape(base.shoulderWidth, shapeOffset),
       torsoLength: shiftLength(base.torsoLength, shapeOffset),
       hipSize: shiftShape(base.hipSize, shapeOffset),
@@ -42,6 +43,7 @@ export function getMockAvatars(profile?: ShopperProfile | null): Promise<Avatar[
   const base: ShopperProfile = profile ?? {
     heightCm: 165,
     weightKg: 58,
+    ethnicity: "korean",
     shoulderWidth: "average",
     torsoLength: "average",
     hipSize: "average",

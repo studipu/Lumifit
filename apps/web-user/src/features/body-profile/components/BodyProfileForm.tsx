@@ -13,6 +13,7 @@ import { ProfileSummary } from "./ProfileSummary";
 const defaultValues: ShopperProfile = {
   heightCm: 0,
   weightKg: 0,
+  ethnicity: "korean",
   shoulderWidth: "average",
   torsoLength: "average",
   hipSize: "average",
@@ -95,6 +96,7 @@ export function BodyProfileForm() {
         <HeightWeightStep
           heightCm={form.heightCm}
           weightKg={form.weightKg}
+          ethnicity={form.ethnicity}
           onChange={updateField}
         />
       )}

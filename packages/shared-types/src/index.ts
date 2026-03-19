@@ -10,9 +10,13 @@ export type LengthScale = (typeof lengthScale)[number];
 export const generationStates = ["queued", "processing", "completed", "failed"] as const;
 export type GenerationState = (typeof generationStates)[number];
 
+export const ethnicityOptions = ["korean", "japanese", "chinese", "southeast-asian", "south-asian", "caucasian", "african", "hispanic"] as const;
+export type Ethnicity = (typeof ethnicityOptions)[number];
+
 export type ShopperProfile = {
   heightCm: number;
   weightKg: number;
+  ethnicity: Ethnicity;
   shoulderWidth: BodyShapeScale;
   torsoLength: LengthScale;
   hipSize: BodyShapeScale;
@@ -55,6 +59,7 @@ export type GenerationJob = {
 export const demoShopperProfile: ShopperProfile = {
   heightCm: 168,
   weightKg: 58,
+  ethnicity: "korean",
   shoulderWidth: "average",
   torsoLength: "average",
   hipSize: "broad",

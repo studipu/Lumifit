@@ -9,6 +9,7 @@ type ProfileSummaryProps = {
 const labelMap: Record<string, string> = {
   heightCm: "키",
   weightKg: "몸무게",
+  ethnicity: "국적",
   shoulderWidth: "어깨 너비",
   torsoLength: "상체 길이",
   hipSize: "골반 너비",
@@ -23,6 +24,14 @@ const valueMap: Record<string, string> = {
   broad: "넓은",
   short: "짧은",
   long: "긴",
+  korean: "한국",
+  japanese: "일본",
+  chinese: "중국",
+  "southeast-asian": "동남아시아",
+  "south-asian": "남아시아",
+  caucasian: "서양",
+  african: "아프리카",
+  hispanic: "히스패닉",
 };
 
 function formatValue(key: string, value: string | number): string {
