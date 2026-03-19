@@ -33,7 +33,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -75,7 +79,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -117,7 +125,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -159,7 +171,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -201,7 +217,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -243,7 +263,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -285,7 +309,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -327,7 +355,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -369,7 +401,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -411,7 +447,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -453,7 +493,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -495,7 +539,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -537,7 +585,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -579,7 +631,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -621,7 +677,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -663,7 +723,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -705,7 +769,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -747,7 +815,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -789,7 +861,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -831,7 +907,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -873,7 +953,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -915,7 +999,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -957,7 +1045,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -999,7 +1091,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1041,7 +1137,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1083,7 +1183,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1125,7 +1229,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1167,7 +1275,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1209,7 +1321,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1251,7 +1367,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1293,7 +1413,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1335,7 +1459,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1377,7 +1505,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1419,7 +1551,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1461,7 +1597,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
@@ -1503,7 +1643,11 @@ Style requirements:
 - front-facing full-body pose
 - neutral standing pose with arms relaxed naturally
 - white seamless background
+- vertical portrait orientation
+- 4:5 portrait framing
 - centered composition
+- the full body should fill most of the frame vertically
+- leave only minimal empty space on the left and right sides
 - consistent studio lighting
 - minimal facial detail
 - the avatar should represent a Korean woman with natural Korean facial features
